@@ -1,0 +1,4 @@
+stepDefinitions\D03_Withdraw.class
+stepDefinitions\Hooks.class
+stepDefinitions\D01_Login.class
+stepDefinitions\D02_Deposit.class
